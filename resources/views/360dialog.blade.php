@@ -20,17 +20,17 @@
                 <div>
                     <img class="mx-auto h-30 w-auto" src="{{ asset('images/logo-header.png') }}" alt="Workflow">
                     <h2 class="mt-6 text-center text-3xl font-extrabold text-gray-900">
-                        360Dialog Onboard by Symplified
+                        Whatsapp Business API onboarding
                     </h2>
                     <p class="mt-2 text-center text-sm text-gray-600">
-                        Onboard with 360dialog Now
+                        with 360dialog
                         
                     </p>
                 </div>
                 <div class="flex items-center justify-center"> 
                     <a id="submitBtn" class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 rounded" 
                     href="https://www.facebook.com/v8.0/dialog/oauth?app_id=307713669880953&cbt=1631154870451&channel_url=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df225ca233e0f908%26domain%3Dhub.360dialog.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fhub.360dialog.com%252Ff3b90a9789086fc%26relation%3Dopener&client_id=307713669880953&display=popup&domain=hub.360dialog.com&e2e=%7B%7D&extras=%7B%22feature%22%3A%22whatsapp_embedded_signup%22%2C%22setup%22%3A%7B%7D%7D&fallback_redirect_uri=https%3A%2F%2Fhub.360dialog.com%2Fdashboard%2Fpartners%2Fpartner%2FSvAiK8PA%2Fpipes%2Fadd-number-flow&locale=en_US&logger_id=f7c08576a5cee4&origin=1&redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df37e2462aace2ec%26domain%3Dhub.360dialog.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fhub.360dialog.com%252Ff3b90a9789086fc%26relation%3Dopener%26frame%3Df19e6df35fc47&response_type=token%2Csigned_request%2Cgraph_domain&scope=business_management%2Cwhatsapp_business_management&sdk=joey&version=v8.0">
-                    Onboard</a>
+                    Start</a>
                 </div>
             <div>
         </div>
