@@ -21,6 +21,9 @@ Route::get('/',[IndexController::class,'loadView']);
 Route::post('/',[IndexController::class,'setWebhook']);
 Route::get('/failed',[FailedController::class,'loadView']);
 
+Route::get('/360dialog', function () {
+    return view("360dialog");
+});
 /**
  * @hideFromAPIDocumentation
  */
